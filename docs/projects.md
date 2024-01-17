@@ -3,7 +3,7 @@ hide:
   - navigation
 ---
 
-# 📝 Ongoing Research Projects - 2023
+# 📝 Ongoing Research Projects - 2024
 
 ## Introduction
 

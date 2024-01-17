@@ -6,7 +6,7 @@ announce: "OpenProphetDB"
 announce_text: 'We are looking for highly motivated graduate students, and undergraduate students to join our team. Please contact us if you are interested.'
 docs_dir: docs/
 repo_name: "OpenProphetDB"
-repo_url: "https://github.com/yjcyxky"
+repo_url: "https://github.com/open-prophetdb"
 edit_uri: prophetdb.org/edit/main/docs/
 markdown_extensions:
   - meta
@@ -33,10 +33,10 @@ extra:
   homepage: https://www.prophetdb.org
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/prophetdb-openlab
+      link: https://github.com/open-prophetdb
       name: OpenProphetDB
   generator: false
-copyright: Copyright &copy; 2016 - 2023 OpenProphetDB
+copyright: Copyright &copy; 2016 - 2024 OpenProphetDB
 theme:
   custom_dir: docs/assets/overrides
   features:

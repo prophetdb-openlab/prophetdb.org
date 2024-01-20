@@ -62,7 +62,3 @@ Such as Knowledge Graph, Omics Data Analyzer, QC Tools, Data Repo for BioMedical
 ### For Rare Disease
 
 Comming soon.
-
-### For Toxicology
-
-Comming soon.

@@ -4,71 +4,7 @@ hide:
 ---
 
 ## Papers
-### 2023
-
-<div style="display: flex; flex-direction: column; flex-wrap: wrap; justify-content: left; align-items: left;">
-  <span><b>Differences of molecular events driving pathological and radiological progression of lung adenocarcinoma</b></span>
-  <span>Shang J, Jiang H, Zhao Y, Lai J, Shi L, Yang J, Chen H*, Zheng Y*.</span>
-  <span><i>EBioMedicine</i></span>
-  <span>
-  <a href="https://doi.org/10.1016/j.ebiom.2023.104728" target="_blank">DOI: 10.1016/j.ebiom.2023.104728</a>
-  </span>
-  <span>
-  <a href="https://pubmed.ncbi.nlm.nih.gov/37506543/" target="_blank">PMID: 37506543</a>
-  </span>
-</div>
-
-<span style="margin-bottom: 10px;" />
-
-<div style="display: flex; flex-direction: column; flex-wrap: wrap; justify-content: left; align-items: left;">
-  <span><b>Prediction of base editor off-targets by deep learning</b></span>
-  <span>Zhang C, Yang Y, Qi T, Zhang Y, Hou L, Wei J, Yang J, Shi L, Ong S-G, Wang H, Wang H*, Yu B*, Wang Y*.</span>
-  <span><i>Nature Communications</i></span>
-  <span><a href="https://doi.org/10.1038/s41467-023-41004-3" target="_blank">DOI: 10.1038/s41467-023-41004-3</a></span>
-  <span><a href="https://pubmed.ncbi.nlm.nih.gov/37660097/" target="_blank">PMID: 37660097</a></span>
-</div>
-
-<span style="margin-bottom: 10px;" />
-
-<div style="display: flex; flex-direction: column; flex-wrap: wrap; justify-content: left; align-items: left;">
-  <span><b>Multi-omics data integration using ratio-based quantitative profiling with Quartet reference materials</b></span>
-  <span>Zheng Y, Liu Y, Yang J, ..., Shi L*.</span>
-  <span><i>Nature Biotechnology</i></span>
-  <span><a href="https://doi.org/10.1038/s41587-023-01934-1" target="_blank">DOI: 10.1038/s41587-023-01934-1</a></span>
-  <span><a href="https://pubmed.ncbi.nlm.nih.gov/37679543/" target="_blank">PMID: 37679543</a></span>
-</div>
-
-<span style="margin-bottom: 10px;" />
-
-<div style="display: flex; flex-direction: column; flex-wrap: wrap; justify-content: left; align-items: left;">
-  <span><b>Singe-cell morphological and topological atlas reveals ecosystem diversity of human breast cancer</b></span>
-  <span>Zhao S, Chen D, Fu T, Yang J, ..., Yang W*, Jiang Y*, Xu J*, Shao Z*.</span>
-  <span><i>Nature Communications</i></span>
-  <span><a href="https://doi.org/10.1038/s41467-023-42504-y" target="_blank">DOI: 10.1038/s41467-023-42504-y</a></span>
-  <span><a href="https://pubmed.ncbi.nlm.nih.gov/37880211/" target="_blank">PMID: 37880211</a></span>
-</div>
-
-<span style="margin-bottom: 10px;" />
-
-<div style="display: flex; flex-direction: column; flex-wrap: wrap; justify-content: left; align-items: left;">
-  <span><b>The Quartet Data Portal: integration of community-wide resources for multiomics quality control</b></span>
-  <span>Yang J, Liu Y, Shang J, ..., Xiao W, Zheng Y*, Shi L*.</span>
-  <span><i>Genome Biology</i></span>
-  <span><a href="https://doi.org/10.1186/s13059-023-03091-9" target="_blank">DOI: 10.1186/s13059-023-03091-9</a></span>
-  <span><a href="https://pubmed.ncbi.nlm.nih.gov/37884999/" target="_blank">PMID: 37884999</a></span>
-</div>
-
-<span style="margin-bottom: 10px;" />
-
-<div style="display: flex; flex-direction: column; flex-wrap: wrap; justify-content: left; align-items: left;">
-  <span><b>Quartet DNA reference materials and datasets for comprehensively evaluating germline variants calling performance</b></span>
-  <span>Ren L, Duan X, Dong L, Zhang R, Yang J, ..., Shi L, Hong H, Wang J*, Fan S*, Fang X*, Zheng Y*.</span>
-  <span><i>Genome Biology</i></span>
-  <span><a href="https://doi.org/10.1186/s13059-023-03109-2" target="_blank">DOI: 10.1186/s13059-023-03109-2</a></span>
-  <span><a href="https://pubmed.ncbi.nlm.nih.gov/38012772/" target="_blank">PMID: 38012772</a></span>
-</div>
-
-<span style="margin-bottom: 10px;" />
+### 2024
 
 <div style="display: flex; flex-direction: column; flex-wrap: wrap; justify-content: left; align-items: left;">
   <span><b>Poor prognosis of stage I lung adenocarcinoma patients determined by elevated expression over pre/minimally invasive status of COL11A1 and THBS2 in the focal adhesion pathway</b></span>
@@ -90,6 +26,82 @@ hide:
   <span><b>The rNMPID database: riboNucleoside MonoPhosphate In DNA</b></span>
   <span>Yang J, Sun M, Ran Z, Yang T, Kundnani DL, Storici F*, Xu P*.</span>
   <span>Under Review</span>
+</div>
+
+<span style="margin-bottom: 10px;" />
+
+### 2023
+
+<div style="display: flex; flex-direction: column; flex-wrap: wrap; justify-content: left; align-items: left;">
+  <span><b>Multi-omics data integration using ratio-based quantitative profiling with Quartet reference materials</b></span>
+  <span>Zheng Y, Liu Y, Yang J, ..., Shi L*.</span>
+  <span><i>Nature Biotechnology</i></span>
+  <span><a href="https://doi.org/10.1038/s41587-023-01934-1" target="_blank">DOI: 10.1038/s41587-023-01934-1</a></span>
+  <span><a href="https://pubmed.ncbi.nlm.nih.gov/37679543/" target="_blank">PMID: 37679543</a></span>
+</div>
+
+<span style="margin-bottom: 10px;" />
+
+<div style="display: flex; flex-direction: column; flex-wrap: wrap; justify-content: left; align-items: left;">
+  <span><b>Quartet RNA reference materials improve the quality of transcriptomic data through ratio-based profiling</b></span>
+  <span>Ying Yu, Wanwan Hou, Yaqing Liu, Haiyan Wang, Lianhua Dong, Yuanbang Mai, Qingwang Chen, Zhihui Li, Shanyue Sun, Jingcheng Yang, Zehui Cao, Peipei Zhang, Yi Zi, Ruimei Liu, Jian Gao, Naixin Zhang, Jingjing Li, Luyao Ren, He Jiang, Jun Shang, Sibo Zhu, Xiaolin Wang, Tao Qing, Ding Bao, …Yuanting Zheng</span>
+  <span><i>Nature Biotechnology</i></span>
+  <span><a href="https://doi.org/10.1038/s41587-023-01867-9" target="_blank">DOI: 10.1038/s41587-023-01867-9</a></span>
+  <span><a href="https://pubmed.ncbi.nlm.nih.gov/37679545/" target="_blank">PMID: 37679545</a></span>
+</div>
+
+<span style="margin-bottom: 10px;" />
+
+<div style="display: flex; flex-direction: column; flex-wrap: wrap; justify-content: left; align-items: left;">
+  <span><b>Quartet DNA reference materials and datasets for comprehensively evaluating germline variants calling performance</b></span>
+  <span>Ren L, Duan X, Dong L, Zhang R, Yang J, ..., Shi L, Hong H, Wang J*, Fan S*, Fang X*, Zheng Y*.</span>
+  <span><i>Genome Biology</i></span>
+  <span><a href="https://doi.org/10.1186/s13059-023-03109-2" target="_blank">DOI: 10.1186/s13059-023-03109-2</a></span>
+  <span><a href="https://pubmed.ncbi.nlm.nih.gov/38012772/" target="_blank">PMID: 38012772</a></span>
+</div>
+
+<span style="margin-bottom: 10px;" />
+
+<div style="display: flex; flex-direction: column; flex-wrap: wrap; justify-content: left; align-items: left;">
+  <span><b>The Quartet Data Portal: integration of community-wide resources for multiomics quality control</b></span>
+  <span>Yang J, Liu Y, Shang J, ..., Xiao W, Zheng Y*, Shi L*.</span>
+  <span><i>Genome Biology</i></span>
+  <span><a href="https://doi.org/10.1186/s13059-023-03091-9" target="_blank">DOI: 10.1186/s13059-023-03091-9</a></span>
+  <span><a href="https://pubmed.ncbi.nlm.nih.gov/37884999/" target="_blank">PMID: 37884999</a></span>
+</div>
+
+<span style="margin-bottom: 10px;" />
+
+<div style="display: flex; flex-direction: column; flex-wrap: wrap; justify-content: left; align-items: left;">
+  <span><b>Singe-cell morphological and topological atlas reveals ecosystem diversity of human breast cancer</b></span>
+  <span>Zhao S, Chen D, Fu T, Yang J, ..., Yang W*, Jiang Y*, Xu J*, Shao Z*.</span>
+  <span><i>Nature Communications</i></span>
+  <span><a href="https://doi.org/10.1038/s41467-023-42504-y" target="_blank">DOI: 10.1038/s41467-023-42504-y</a></span>
+  <span><a href="https://pubmed.ncbi.nlm.nih.gov/37880211/" target="_blank">PMID: 37880211</a></span>
+</div>
+
+<span style="margin-bottom: 10px;" />
+
+<div style="display: flex; flex-direction: column; flex-wrap: wrap; justify-content: left; align-items: left;">
+  <span><b>Differences of molecular events driving pathological and radiological progression of lung adenocarcinoma</b></span>
+  <span>Shang J, Jiang H, Zhao Y, Lai J, Shi L, Yang J, Chen H*, Zheng Y*.</span>
+  <span><i>EBioMedicine</i></span>
+  <span>
+  <a href="https://doi.org/10.1016/j.ebiom.2023.104728" target="_blank">DOI: 10.1016/j.ebiom.2023.104728</a>
+  </span>
+  <span>
+  <a href="https://pubmed.ncbi.nlm.nih.gov/37506543/" target="_blank">PMID: 37506543</a>
+  </span>
+</div>
+
+<span style="margin-bottom: 10px;" />
+
+<div style="display: flex; flex-direction: column; flex-wrap: wrap; justify-content: left; align-items: left;">
+  <span><b>Prediction of base editor off-targets by deep learning</b></span>
+  <span>Zhang C, Yang Y, Qi T, Zhang Y, Hou L, Wei J, Yang J, Shi L, Ong S-G, Wang H, Wang H*, Yu B*, Wang Y*.</span>
+  <span><i>Nature Communications</i></span>
+  <span><a href="https://doi.org/10.1038/s41467-023-41004-3" target="_blank">DOI: 10.1038/s41467-023-41004-3</a></span>
+  <span><a href="https://pubmed.ncbi.nlm.nih.gov/37660097/" target="_blank">PMID: 37660097</a></span>
 </div>
 
 ### 2022
@@ -116,7 +128,7 @@ hide:
 
 <div style="display: flex; flex-direction: column; flex-wrap: wrap; justify-content: left; align-items: left;">
   <span><b>BioVisReport: a lightweight website-builder for reproducible and interactive visualization of biomedical data of peer-reviewed publications</b></span>
-  <span>Yang J, Liu Y, Shang J, <b>Huang Y</b>, Yu Y, Li Z, Shi L, Ran Z*.</span>
+  <span>Yang J, Liu Y, Shang J, Huang Y, Yu Y, Li Z, Shi L, Ran Z*.</span>
   <span><i>Computational and Structural Biotechnology Journal</i></span>
   <span><a href="https://doi.org/10.1016/j.csbj.2022.06.009" target="_blank">DOI: 10.1016/j.csbj.2022.06.009</a></span>
   <span><a href="https://pubmed.ncbi.nlm.nih.gov/35782729/" target="_blank">PMID: 35782729</a></span>
@@ -375,6 +387,22 @@ hide:
 
 
 ## Online Systems and Databases
+
+### Quartet Data Portal
+
+An Online Platform for Quality Control and Data Integration of Multi-omics Profiling
+
+>  <img alt="QuartetDataPortal" src="/assets/images/chinese-quartet.png" width="100%" />
+
+> Category: Database; Omics Data Analysis; Quality Control
+
+> Description: The Quartet Project provides publicly accessible multi-omics reference materials and practical tools to enhance the reproducibility and reliability of multi-omics results. Well-characterized multiomics reference materials and quality control metrics pertinent to precision medicine study purposes can be used to measure and mitigate technical variation, enabling more accurate cross-batch and cross-omics data integration in increasingly large-scale and longitudinal studies such as the International Human Phenome Project.
+
+> Website: [https://chinese-quartet.org/#/dashboard](https://chinese-quartet.org/#/dashboard)
+
+> Group Members: Jingcheng Yang, Yaqing Liu, Jun Shang (View the publication for the full list of authors)
+
+> Publication: [https://doi.org/10.1186/s13059-023-03091-9](https://doi.org/10.1186/s13059-023-03091-9)
 
 ### GlioMarker
 

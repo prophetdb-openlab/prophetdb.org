@@ -35,13 +35,3 @@ Affiliations
 - Inspection and Quarantine Department, The College of Medical Technology, Shanghai University of Medicine & Health Sciences, 279 Zhouzhu Road, Shanghai 201318, China.
 
 - The Genius Medicine Consortium (TGMC), Shanghai, China
-
-### Yechao Huang, Ph.D 
-
-`[huangyechao at fudan.edu.cn]`
-
-Affiliations
-
-- State Key Laboratory of Genetic Engineering, Human Phenome Institute, School of Life Sciences and Shanghai Cancer Center, Fudan University, Shanghai 200438, China.
-
-- The Genius Medicine Consortium (TGMC), Shanghai, China.

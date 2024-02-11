@@ -5,13 +5,11 @@ hide:
 
 ## 📝 Research Goals
 
-- Build a network medicine platform for drug repurposing and disease mechanism for human diseases, such as ME/CFS, Long Covid, ALS, etc.
-
-- Find drug targets, disease mechanisms and potential drugs for rare diseases, such as ME/CFS, Long Covid, ALS, etc. 
+Construct and integrate knowledge graph, multi-omics data and deep learning models to understand the molecular mechanisms of human diseases or predict known drugs for new indications (Drug Repurposing).
 
 ## 📚 Research Tasks
 
-> Rare Disease: ME/CFS, Long Covid, ALS, etc.
+> Diseases: ME/CFS, Long Covid, ALS, etc.
 
 ### 🧑‍🔬 Curating BioMedical Knowledges and Omics Data
 

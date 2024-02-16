@@ -45,7 +45,7 @@ Such as Knowledge Graph, Omics Data Analyzer, QC Tools, Data Repo for BioMedical
 
 | Title | Description |
 |--|--|
-| [Omics Datasets](https://github.com/yjcyxky/omics-datasets) | A collection of omics datasets for cancer and rare diseases. [Only for Group Members] |
+| [Omics Datasets](https://github.com/yjcyxky/omics-datasets) | A collection of omics datasets for cancer and auto-immune diseases. [Only for Group Members] |
 | [Antibody DL](https://github.com/yjcyxky/antibody-dl) | A Collection of Platform, Tools, and Resources for Antibody Engineering|
 | [BioMedical Knowledgebases](https://github.com/yjcyxky/biomedical-knowledgebases) | A collection of biomedical knowledgebases, ontologies, and datasets. |
 | [Toxicant Datasets](https://github.com/yjcyxky/toxicant-datasets) | A collection of toxicant dataset. |
@@ -59,6 +59,6 @@ Such as Knowledge Graph, Omics Data Analyzer, QC Tools, Data Repo for BioMedical
 |--|--|
 | [Quartet Data Portal](https://www.chinese-quartet.org/#/data/download/quartet-genomics) | A data portal for quality control of multi-omics data. It contains a lot of high quality multi-omics data based on the quartet reference materials. If you want to ensure your data quality, you can use it as a reference. |
 
-### For Rare Disease
+### For Auto-Immune Disease
 
 Comming soon.

@@ -18,7 +18,7 @@ hide:
       </div>
     </div>
     <div class="right">
-      Post-doc Fellow, Harvard Medical School & MGH, Fudan University. He has earned a Ph.D. in Genetics from Fudan University. Prior to this, he was a cardiothoracic surgeon. Now, he focuses on integrating multi-omics data and knowledge graphs and conducts deep-learning heterogeneous network methods for network medicine to discover rare disease mechanisms and potential treatments. <a href="https://github.com/yjcyxky">Github</a> >>> <a href="https://www.researchgate.net/profile/Jingcheng-Yang-4">Research Gate</a>
+      Post-doc Fellow, Harvard Medical School & MGH, Fudan University. He has earned a Ph.D. in Genetics from Fudan University. Prior to this, he was a cardiothoracic surgeon. Now, he focuses on integrating multi-omics data and knowledge graphs and conducts deep-learning heterogeneous network methods for network medicine to discover auto-immune disease mechanisms and potential treatments. <a href="https://github.com/yjcyxky">Github</a> >>> <a href="https://www.researchgate.net/profile/Jingcheng-Yang-4">Research Gate</a>
     </div>
   </div>
   <div class="member-card">

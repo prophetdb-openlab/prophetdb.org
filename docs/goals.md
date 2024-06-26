@@ -5,7 +5,7 @@ hide:
 
 ## 📝 Research Goals
 
-Construct and integrate <b>knowledge graph</b>, <b>multi-omics data</b> and <b>deep learning models</b> to understand the molecular mechanisms of human diseases or predict known drugs for new indications (Drug Repurposing).
+Construct and integrate <b>knowledge graph</b>, <b>multi-omics data</b> and <b>deep learning models</b> to understand the molecular mechanisms of human rare and complex diseases, or to predict new indications for known drugs through drug repurposing.
 
 ## 📚 Research Tasks
 

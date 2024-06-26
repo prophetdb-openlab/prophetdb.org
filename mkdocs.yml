@@ -1,6 +1,6 @@
 # Please access https://squidfunk.github.io/mkdocs-material for more details.
 site_name: OpenProphetDB
-site_description: "OpenProphetDB is an open research group which is interested in the following topics: construct and integrate <b>knowledge graph</b>, <b>multi-omics data</b> and <b>deep learning models</b> to understand the molecular mechanisms of human diseases or predict known drugs for new indications (Drug Repurposing)."
+site_description: "OpenProphetDB is an open research group focused on Unlocking the potential of existing drugs to save patients with rare and complex diseases. We explore the following topics: constructing and integrating <b>knowledge graph</b>, <b>multi-omics data</b>, and <b>deep learning models</b> to understand the molecular mechanisms of human rare and complex diseases, or to predict new indications for known drugs through drug repurposing."
 site_author: "Jingcheng Yang"
 announce: "OpenProphetDB"
 announce_text: 'We are looking for partners who are highly motivated on drug repurposing to join the OpenProphetDB community. Please contact us if you are interested.'

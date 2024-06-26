@@ -23,9 +23,21 @@ hide:
 <span style="margin-bottom: 10px;" />
 
 <div style="display: flex; flex-direction: column; flex-wrap: wrap; justify-content: left; align-items: left;">
-  <span><b>The rNMPID database: riboNucleoside MonoPhosphate In DNA</b></span>
+  <span><b>Chronic PM2.5 Exposure Disrupts Intestinal Barrier Integrity via Microbial Dysbiosis-Triggered TLR2/5-MyD88-NLRP3 Inflammasome Activation</b></span>
+  <span>Zihan Ran#, Jingcheng Yang#, Liang Liu#, Shaobo Wu, YanPeng An, Wanwan Hou, Tianyuan Cheng, Youyi Zhang, Yiqing Zhang, Yechao Huang, Qianyue Zhang, Jiaping Wan, Xuemei Li, Baoling Xing, Yuchen Ye, Penghao Xu, Zhenghu Chen*, Jinzhuo Zhao*, Rui Li*</span>
+  <span><i>Environmental Research</i></span>
+  <span><a href="https://doi.org/10.1016/j.envres.2024.119415" target="_blank">DOI: 10.1016/j.envres.2024.119415</a></span>
+  <span><a href="https://pubmed.ncbi.nlm.nih.gov/38906446/" target="_blank">PMID: 38906446</a></span>
+</div>
+
+<span style="margin-bottom: 10px;" />
+
+<div style="display: flex; flex-direction: column; flex-wrap: wrap; justify-content: left; align-items: left;">
+  <span><b>rNMPID: a database for riboNucleoside MonoPhosphates in DNA</b></span>
   <span>Yang J, Sun M, Ran Z, Yang T, Kundnani DL, Storici F*, Xu P*.</span>
-  <span>Under Review</span>
+  <span><i>Bioinformatics Advances</i></span>
+  <span><a href="https://doi.org/10.1093/bioadv/vbae063" target="_blank">DOI: 10.1093/bioadv/vbae063</a></span>
+  <span><a href="https://pubmed.ncbi.nlm.nih.gov/38736683/" target="_blank">PMID: 38736683</a></span>
 </div>
 
 <span style="margin-bottom: 10px;" />

@@ -34,7 +34,7 @@ hide:
 
 <div style="display: flex; flex-direction: column; flex-wrap: wrap; justify-content: left; align-items: left;">
   <span><b>rNMPID: a database for riboNucleoside MonoPhosphates in DNA</b></span>
-  <span>Yang J, Sun M, Ran Z, Yang T, Kundnani DL, Storici F*, Xu P*.</span>
+  <span>Jingcheng Yang#, Mo Sun#, Zihan Ran, Taehwan Yang, Deepali L Kundnani, Francesca Storici*, Penghao Xu*.</span>
   <span><i>Bioinformatics Advances</i></span>
   <span><a href="https://doi.org/10.1093/bioadv/vbae063" target="_blank">DOI: 10.1093/bioadv/vbae063</a></span>
   <span><a href="https://pubmed.ncbi.nlm.nih.gov/38736683/" target="_blank">PMID: 38736683</a></span>
@@ -46,7 +46,7 @@ hide:
 
 <div style="display: flex; flex-direction: column; flex-wrap: wrap; justify-content: left; align-items: left;">
   <span><b>Multi-omics data integration using ratio-based quantitative profiling with Quartet reference materials</b></span>
-  <span>Zheng Y, Liu Y, Yang J, ..., Shi L*.</span>
+  <span>Yuanting Zheng#, Yaqing Liu#, Jingcheng Yang#, ..., Leming Shi*.</span>
   <span><i>Nature Biotechnology</i></span>
   <span><a href="https://doi.org/10.1038/s41587-023-01934-1" target="_blank">DOI: 10.1038/s41587-023-01934-1</a></span>
   <span><a href="https://pubmed.ncbi.nlm.nih.gov/37679543/" target="_blank">PMID: 37679543</a></span>
@@ -66,7 +66,7 @@ hide:
 
 <div style="display: flex; flex-direction: column; flex-wrap: wrap; justify-content: left; align-items: left;">
   <span><b>Quartet DNA reference materials and datasets for comprehensively evaluating germline variants calling performance</b></span>
-  <span>Ren L, Duan X, Dong L, Zhang R, Yang J, ..., Shi L, Hong H, Wang J*, Fan S*, Fang X*, Zheng Y*.</span>
+  <span>Luyao Ren#, Xiaoke Duan#, Lianhua Dong#, Rui Zhang#, Jingcheng Yang#, ..., Leming Shi, Huixiao Hong, Jing Wang*, Shaohua Fan*, Xiang Fang*, Yuanting Zheng*.</span>
   <span><i>Genome Biology</i></span>
   <span><a href="https://doi.org/10.1186/s13059-023-03109-2" target="_blank">DOI: 10.1186/s13059-023-03109-2</a></span>
   <span><a href="https://pubmed.ncbi.nlm.nih.gov/38012772/" target="_blank">PMID: 38012772</a></span>
@@ -76,7 +76,7 @@ hide:
 
 <div style="display: flex; flex-direction: column; flex-wrap: wrap; justify-content: left; align-items: left;">
   <span><b>The Quartet Data Portal: integration of community-wide resources for multiomics quality control</b></span>
-  <span>Yang J, Liu Y, Shang J, ..., Xiao W, Zheng Y*, Shi L*.</span>
+  <span>Jingcheng Yang#, Yaqing Liu#, Jun Shang#, ..., Yuanting Zheng*, Leming Shi*.</span>
   <span><i>Genome Biology</i></span>
   <span><a href="https://doi.org/10.1186/s13059-023-03091-9" target="_blank">DOI: 10.1186/s13059-023-03091-9</a></span>
   <span><a href="https://pubmed.ncbi.nlm.nih.gov/37884999/" target="_blank">PMID: 37884999</a></span>
@@ -86,7 +86,7 @@ hide:
 
 <div style="display: flex; flex-direction: column; flex-wrap: wrap; justify-content: left; align-items: left;">
   <span><b>Singe-cell morphological and topological atlas reveals ecosystem diversity of human breast cancer</b></span>
-  <span>Zhao S, Chen D, Fu T, Yang J, ..., Yang W*, Jiang Y*, Xu J*, Shao Z*.</span>
+  <span>Shao Zhao#, Depin Chen#, Tong Fu#, Jingcheng Yang#, ..., Wentao Yang*, Yizhou Jiang*, Jun Xu*, Zhiming Shao*.</span>
   <span><i>Nature Communications</i></span>
   <span><a href="https://doi.org/10.1038/s41467-023-42504-y" target="_blank">DOI: 10.1038/s41467-023-42504-y</a></span>
   <span><a href="https://pubmed.ncbi.nlm.nih.gov/37880211/" target="_blank">PMID: 37880211</a></span>
@@ -96,7 +96,7 @@ hide:
 
 <div style="display: flex; flex-direction: column; flex-wrap: wrap; justify-content: left; align-items: left;">
   <span><b>Differences of molecular events driving pathological and radiological progression of lung adenocarcinoma</b></span>
-  <span>Shang J, Jiang H, Zhao Y, Lai J, Shi L, Yang J, Chen H*, Zheng Y*.</span>
+  <span>Jun Shang#, He Jiang#, Yue Zhao#, ..., Jingcheng Yang*, Haiquan Chen*, Yuanting Zheng*.</span>
   <span><i>EBioMedicine</i></span>
   <span>
   <a href="https://doi.org/10.1016/j.ebiom.2023.104728" target="_blank">DOI: 10.1016/j.ebiom.2023.104728</a>
@@ -110,7 +110,7 @@ hide:
 
 <div style="display: flex; flex-direction: column; flex-wrap: wrap; justify-content: left; align-items: left;">
   <span><b>Prediction of base editor off-targets by deep learning</b></span>
-  <span>Zhang C, Yang Y, Qi T, Zhang Y, Hou L, Wei J, Yang J, Shi L, Ong S-G, Wang H, Wang H*, Yu B*, Wang Y*.</span>
+  <span>Chengdong Zhang#, Yuan Yang#, Tao Qi#, ..., Hui Wang*, Bo Yu*, Yongming Wang*.</span>
   <span><i>Nature Communications</i></span>
   <span><a href="https://doi.org/10.1038/s41467-023-41004-3" target="_blank">DOI: 10.1038/s41467-023-41004-3</a></span>
   <span><a href="https://pubmed.ncbi.nlm.nih.gov/37660097/" target="_blank">PMID: 37660097</a></span>
@@ -120,20 +120,10 @@ hide:
 
 <div style="display: flex; flex-direction: column; flex-wrap: wrap; justify-content: left; align-items: left;">
   <span><b>GlioMarker: An integrated database for knowledge exploration of diagnostic biomarkers in gliomas</b></span>
-  <span>Ran Z, Yang J, Liu Y, ..., Yang T*.</span>
+  <span>Zihan Ran#, Jingcheng Yang#, Yaqing Liu#, ..., Tao Yang*.</span>
   <span><i>Frontiers in Oncology</i></span>
   <span><a href="https://doi.org/10.3389/fonc.2022.792055" target="_blank">DOI: 10.3389/fonc.2022.792055</a></span>
   <span><a href="https://pubmed.ncbi.nlm.nih.gov/36081550/" target="_blank">PMID: 36081550</a></span>
-</div>
-
-<span style="margin-bottom: 10px;" />
-
-<div style="display: flex; flex-direction: column; flex-wrap: wrap; justify-content: left; align-items: left;">
-  <span><b>Up-regulated tumor intrinsic growth potential and decreased immune function orchestrate the evolution of lung adenocarcinoma</b></span>
-  <span>Zhao Y, Shang J, Gao J, Han H, Gao Z, Yan Y, Zheng Q, Ye T, Fu F, Deng C, Ma Z, Cao Z, Shi L, Chen H.</span>
-  <span><i>Front Immunol</i></span>
-  <span><a href="https://doi.org/10.3389/fimmu.2022.921761" target="_blank">DOI: 10.3389/fimmu.2022.921761</a></span>
-  <span><a href="https://pubmed.ncbi.nlm.nih.gov/35844495/" target="_blank">PMID: 35844495</a></span>
 </div>
 
 <span style="margin-bottom: 10px;" />

@@ -11,6 +11,7 @@ hide:
 
 | Title | Description| Open Source Repo | Feedback |
 |--|--|--|--|
+| [BioMedGPS Data](https://open-prophetdb.github.io/biomedgps-data/) | How to build biomedical knowledge graph & graph neural network models for drug repurposing. | [GitHub Repo](https://github.com/open-prophetdb/biomedgps-data) | [Post an Issue](https://github.com/open-prophetdb/biomedgps-data/issues) |
 | [Prophet Studio](https://prophet-studio.3steps.cn/) | A data labeling and annotation tool for biomedical publications. | [GitHub Repo](https://github.com/yjcyxky/prophet-studio) | [Post an Issue](https://github.com/yjcyxky/prophet-studio/issues) |
 | [GuideScoper](https://biosolver.cn/) | Find the Best sgRNAs and Design top-scoring guide RNAs for gene knockout | [GitHub Repo](https://github.com/yjcyxky/cell-guider) ||
 | [GlioMarker](http://gliomarker.prophetdb.org/#/home) | An integrated Database for Knowledge Exploration of Diagnostic Biomarkers in Gliomas | [GitHub Repo](https://github.com/yjcyxky/gliomarker) ||

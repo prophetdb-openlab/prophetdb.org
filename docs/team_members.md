@@ -14,7 +14,7 @@ hide:
       <img src="/assets/images/jingchengyang.jpeg" />
       <div>
         <div class="name">Jingcheng Yang</div>
-        <div class="position">Post-doc Fellow</div>
+        <div class="position">Post-doc Fellow - DryLab</div>
       </div>
     </div>
     <div class="right">
@@ -26,7 +26,7 @@ hide:
       <img src="/assets/images/penghaoxu.jpg"/>
       <div>
         <div class="name">Penghao xu</div>
-        <div class="position">Post-doc Fellow</div>
+        <div class="position">Post-doc Fellow - DryLab</div>
       </div>
     </div>
     <div class="right">
@@ -38,7 +38,7 @@ hide:
       <img src="/assets/images/zihanran.png"/>
       <div>
         <div class="name">Zihan Ran</div>
-        <div class="position">Associate Professor</div>
+        <div class="position">Associate Professor - WetLab</div>
       </div>
     </div>
     <div class="right">
@@ -50,7 +50,7 @@ hide:
       <img src="/assets/images/fengzhu.png"/>
       <div>
         <div class="name">Feng Zhu</div>
-        <div class="position">Ph.D...</div>
+        <div class="position">Ph.D. - WetLab</div>
       </div>
     </div>
     <div class="right">
@@ -62,11 +62,23 @@ hide:
       <img src="/assets/images/yechaohuang.png"/>
       <div>
         <div class="name">Yechao Huang</div>
-        <div class="position">Research Scientist</div>
+        <div class="position">Research Scientist - DryLab</div>
       </div>
     </div>
     <div class="right">
       He has earned a Ph.D. at the School of Life Sciences, Fudan University. He focuses on genomic structural variations in the human genome and population genetics.
+    </div>
+  </div>
+    <div class="member-card">
+    <div class="left">
+      <img src="/assets/images/xiaofeili.png"/>
+      <div>
+        <div class="name">Xiaofei Li</div>
+        <div class="position">Ph.D. - WetLab</div>
+      </div>
+    </div>
+    <div class="right">
+      His primary research focus is to investigate the mechanisms of drug resistance in cancer and to explore the active components of traditional Chinese medicine, as well as repurposing existing drugs, utilizing knowledge graph techniques.
     </div>
   </div>
 </div>

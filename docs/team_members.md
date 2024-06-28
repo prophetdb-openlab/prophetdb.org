@@ -71,7 +71,7 @@ hide:
   </div>
     <div class="member-card">
     <div class="left">
-      <img src="/assets/images/xiaofeili.jpeg"/>
+      <img src="/assets/images/xiaofeili.png"/>
       <div>
         <div class="name">Xiaofei Li</div>
         <div class="position">Ph.D.</div>

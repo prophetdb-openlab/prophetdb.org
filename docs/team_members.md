@@ -18,7 +18,7 @@ hide:
       </div>
     </div>
     <div class="right">
-      DryLab - Post-doc Fellow, Harvard Medical School & MGH, Fudan University. He has earned a Ph.D. in Genetics from Fudan University. Prior to this, he was a cardiothoracic surgeon. Now, he focuses on integrating multi-omics data and knowledge graphs and conducts deep-learning heterogeneous network methods for network medicine to discover auto-immune disease mechanisms and potential treatments. <a href="https://github.com/yjcyxky">Github</a> >>> <a href="https://www.researchgate.net/profile/Jingcheng-Yang-4">Research Gate</a>
+      <span class="custom-tag" style="background-color: #108ee9;">DryLab</span> Harvard Medical School & MGH, Fudan University. He has earned a Ph.D. in Genetics from Fudan University. Prior to this, he was a cardiothoracic surgeon. Now, he focuses on integrating multi-omics data and knowledge graphs and conducts deep-learning heterogeneous network methods for network medicine to discover auto-immune disease mechanisms and potential treatments. <a href="https://github.com/yjcyxky">Github</a> >>> <a href="https://www.researchgate.net/profile/Jingcheng-Yang-4">Research Gate</a>
     </div>
   </div>
   <div class="member-card">
@@ -30,7 +30,7 @@ hide:
       </div>
     </div>
     <div class="right">
-      DryLab - Post-doc Fellow, Georgia Tech. He has earned a Ph.D. in Bioinformatics from Georgia Tech in 2022. Prior to this, he received a Master’s degree in Computational Sciences and Engineering from Georgia Tech in 2019, and a Bachelor’s degree in Biological Sciences from Fudan University in 2017. His research area include Bioinformatics, Genomics, Data analysis, and Machine Learning. <a href="https://github.com/xph9876">Github</a> >>> <a href="https://www.linkedin.com/in/penghao-xu-24111914b/">Linkedin</a>
+      <span class="custom-tag" style="background-color: #108ee9;">DryLab</span> Georgia Tech. He has earned a Ph.D. in Bioinformatics from Georgia Tech in 2022. Prior to this, he received a Master’s degree in Computational Sciences and Engineering from Georgia Tech in 2019, and a Bachelor’s degree in Biological Sciences from Fudan University in 2017. His research area include Bioinformatics, Genomics, Data analysis, and Machine Learning. <a href="https://github.com/xph9876">Github</a> >>> <a href="https://www.linkedin.com/in/penghao-xu-24111914b/">Linkedin</a>
     </div>
   </div>
   <div class="member-card">
@@ -42,7 +42,7 @@ hide:
       </div>
     </div>
     <div class="right">
-      WetLab - She has earned a Ph.D. from Fudan University. She focuses on the health effects and toxicological mechanisms of pollutant exposure, knowledge graph and multi-omics data integration and analysis.
+      <span class="custom-tag" style="background-color: #108ee9;">WetLab</span> She has earned a Ph.D. from Fudan University. She focuses on the health effects and toxicological mechanisms of pollutant exposure, knowledge graph and multi-omics data integration and analysis.
     </div>
   </div>
   <div class="member-card">
@@ -54,7 +54,7 @@ hide:
       </div>
     </div>
     <div class="right">
-      WetLab - He is currently pursuing a Ph.D. at Fudan University. His research focuses on the development of CRISPR libraries and gene-editing cell libraries, as well as target and drug screening based on these technologies.
+      <span class="custom-tag" style="background-color: #108ee9;">WetLab</span> He is currently pursuing a Ph.D. at Fudan University. His research focuses on the development of CRISPR libraries and gene-editing cell libraries, as well as target and drug screening based on these technologies.
     </div>
   </div>
   <div class="member-card">
@@ -66,7 +66,7 @@ hide:
       </div>
     </div>
     <div class="right">
-      DryLab - He has earned a Ph.D. at the School of Life Sciences, Fudan University. He focuses on genomic structural variations in the human genome and population genetics.
+      <span class="custom-tag" style="background-color: #108ee9;">DryLab</span> He has earned a Ph.D. at the School of Life Sciences, Fudan University. He focuses on genomic structural variations in the human genome and population genetics.
     </div>
   </div>
     <div class="member-card">
@@ -78,7 +78,7 @@ hide:
       </div>
     </div>
     <div class="right">
-      WetLab - His primary research focus is to investigate the mechanisms of drug resistance in cancer and to explore the active components of traditional Chinese medicine, as well as repurposing existing drugs, utilizing knowledge graph techniques.
+      <span class="custom-tag" style="background-color: #108ee9;">WetLab</span> His primary research focus is to investigate the mechanisms of drug resistance in cancer and to explore the active components of traditional Chinese medicine, as well as repurposing existing drugs, utilizing knowledge graph techniques.
     </div>
   </div>
 </div>

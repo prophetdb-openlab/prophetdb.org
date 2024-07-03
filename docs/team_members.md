@@ -42,7 +42,7 @@ hide:
       </div>
     </div>
     <div class="right">
-      <span class="custom-tag" style="background-color: #108ee9;">WetLab</span> She has earned a Ph.D. from Fudan University. She focuses on the health effects and toxicological mechanisms of pollutant exposure, knowledge graph and multi-omics data integration and analysis.
+      <span class="custom-tag" style="background-color: #2db7f5;">WetLab</span> She has earned a Ph.D. from Fudan University. She focuses on the health effects and toxicological mechanisms of pollutant exposure, knowledge graph and multi-omics data integration and analysis.
     </div>
   </div>
   <div class="member-card">
@@ -54,7 +54,7 @@ hide:
       </div>
     </div>
     <div class="right">
-      <span class="custom-tag" style="background-color: #108ee9;">WetLab</span> He is currently pursuing a Ph.D. at Fudan University. His research focuses on the development of CRISPR libraries and gene-editing cell libraries, as well as target and drug screening based on these technologies.
+      <span class="custom-tag" style="background-color: #2db7f5;">WetLab</span> He is currently pursuing a Ph.D. at Fudan University. His research focuses on the development of CRISPR libraries and gene-editing cell libraries, as well as target and drug screening based on these technologies.
     </div>
   </div>
   <div class="member-card">
@@ -78,7 +78,7 @@ hide:
       </div>
     </div>
     <div class="right">
-      <span class="custom-tag" style="background-color: #108ee9;">WetLab</span> His primary research focus is to investigate the mechanisms of drug resistance in cancer and to explore the active components of traditional Chinese medicine, as well as repurposing existing drugs, utilizing knowledge graph techniques.
+      <span class="custom-tag" style="background-color: #2db7f5;">WetLab</span> His primary research focus is to investigate the mechanisms of drug resistance in cancer and to explore the active components of traditional Chinese medicine, as well as repurposing existing drugs, utilizing knowledge graph techniques.
     </div>
   </div>
 </div>

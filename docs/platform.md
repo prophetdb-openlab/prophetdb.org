@@ -3,6 +3,15 @@ hide:
   - navigation
 ---
 
+## Introduction to Our Platform
+
+<div style="position: relative; width: 100%; 
+    padding-top: calc(100% * 720 / 1280); 
+    border: 2px black solid;">
+  <iframe src="//player.bilibili.com/player.html?aid=364614495&bvid=BV1S94y187ev&cid=1296306181&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; top: 0;">
+  </iframe>
+</div>
+
 ## 🖥️ Open-Source Projects from Our Lab
 
 ### Knowledge Curation and Databases
@@ -59,7 +68,3 @@ Such as Knowledge Graph, Omics Data Analyzer, QC Tools, Data Repo for BioMedical
 | Title | Description |
 |--|--|
 | [Quartet Data Portal](https://www.chinese-quartet.org/#/data/download/quartet-genomics) | A data portal for quality control of multi-omics data. It contains a lot of high quality multi-omics data based on the quartet reference materials. If you want to ensure your data quality, you can use it as a reference. |
-
-### For Auto-Immune Disease
-
-Comming soon.

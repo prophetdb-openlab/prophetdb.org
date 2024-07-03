@@ -5,7 +5,7 @@ hide:
 
 # 📝 Ongoing Research Projects - 2024
 
-## Curation - Building Knowledge Graph for ME/CFS and Long COVID
+## Curation - Building Knowledgebase for ME/CFS and Long COVID
 
 > Goal: curate latest findings from literatures and build a knowledgebase for ME/CFS and Long COVID. These findings include drug targets, disease mechanisms and biomarkers. It may help us to train deep learning models to curate knowledges automatically and be part of the knowledge graph for drug repurposing, disease mechanism.
 
@@ -36,4 +36,4 @@ hide:
 
 > Publication: 
 
-> Repository: [BioMedGPS](https://github.com/yjcyxky/biomedgps-data)
+> Repository: [BioMedGPS Data](https://github.com/yjcyxky/biomedgps-data)

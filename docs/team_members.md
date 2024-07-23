@@ -4,6 +4,12 @@ hide:
   - toc
 ---
 
+# Team Resources
+
+### Collaboration for OpenProphetDB Team Members
+
+Click the invitation link to join [the document collaboration group](https://kdocs.cn/join/g924rmw?f=101) and [the project management group](https://github.com/orgs/open-prophetdb/projects/1).
+
 # Team Members
 
 <!-- Add several div tags which contains four elements for each div tag. Four elements are picture, name, position and description. And the description item must be placed on the right, other items are placed on the left. -->

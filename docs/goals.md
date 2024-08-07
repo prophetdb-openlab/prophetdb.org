@@ -5,7 +5,7 @@ hide:
 
 ## 📝 Research Goals
 
-Construct and integrate <b>knowledge graph</b>, <b>multi-omics data</b> and <b>deep learning models</b> to understand the molecular mechanisms of human rare and complex diseases, or to predict new indications for known drugs through drug repurposing.
+OpenProphetDB is an open research group focused on unlocking the potential of existing drugs to save patients with rare and complex diseases. We explore the following topics: constructing and integrating knowledge graph, multi-omics data, and deep learning models to understand the molecular mechanisms of human rare and complex diseases, or to predict new indications for known drugs through drug repurposing.
 
 ## 📚 Research Tasks
 

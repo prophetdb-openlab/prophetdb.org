@@ -1,10 +1,11 @@
 ---
 hide:
   - navigation
-  - toc
 ---
 
-# Founder Members
+# OpenProphetDB Team Members
+
+## Founder Members
 
 Click the invitation link to join [the document collaboration group](https://kdocs.cn/join/g924rmw?f=101) and [the project management group](https://github.com/orgs/open-prophetdb/projects/1).
 
@@ -49,7 +50,7 @@ Click the invitation link to join [the document collaboration group](https://kdo
 
 <span style="margin-bottom: 20px;" />
 
-# Core Members
+## Core Members
 
 <!-- Add several div tags which contains four elements for each div tag. Four elements are picture, name, position and description. And the description item must be placed on the right, other items are placed on the left. -->
 
@@ -118,7 +119,7 @@ Click the invitation link to join [the document collaboration group](https://kdo
 
 <span style="margin-bottom: 20px;" />
 
-# Interns
+## Interns
 
 <div style="display: flex; flex-direction: row; flex-wrap: wrap;">
   <div class="member-card">

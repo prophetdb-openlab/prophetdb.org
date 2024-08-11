@@ -8,7 +8,7 @@ hide:
 
 <div style="display: flex; flex-direction: column; flex-wrap: wrap; justify-content: left; align-items: left;">
   <span><b>Poor prognosis of stage I lung adenocarcinoma patients determined by elevated expression over pre/minimally invasive status of COL11A1 and THBS2 in the focal adhesion pathway</b></span>
-  <span>Shang J, Zhao Y, Jiang H, Yang J, ..., Shi L*, Chen H*, Zheng Y*.</span>
+  <span>Jun Shang#, Yue Zhao#, He Jiang#, <b>Jingcheng Yang</b>, ..., Leming Shi*, Haiquan Chen*, Yuanting Zheng*.</span>
   <span>Under Review</span>
 </div>
 
@@ -16,7 +16,7 @@ hide:
 
 <div style="display: flex; flex-direction: column; flex-wrap: wrap; justify-content: left; align-items: left;">
   <span><b>BEdeepon: an in silico tool for prediction of base editor efficiencies and outcomes</b></span>
-  <span>Zhang C, Wang D, Qi T, ..., Yang J, ..., Wang H*, Wang Y*.</span>
+  <span>Chengdong Zhang#, Daqi Wang#, ..., <b>Jingcheng Yang</b>, ..., Yongming Wang*.</span>
   <span>Under Review</span>
 </div>
 
@@ -24,7 +24,7 @@ hide:
 
 <div style="display: flex; flex-direction: column; flex-wrap: wrap; justify-content: left; align-items: left;">
   <span><b>Chronic PM2.5 Exposure Disrupts Intestinal Barrier Integrity via Microbial Dysbiosis-Triggered TLR2/5-MyD88-NLRP3 Inflammasome Activation</b></span>
-  <span>Zihan Ran#, Jingcheng Yang#, Liang Liu#, Shaobo Wu, YanPeng An, Wanwan Hou, Tianyuan Cheng, Youyi Zhang, Yiqing Zhang, Yechao Huang, Qianyue Zhang, Jiaping Wan, Xuemei Li, Baoling Xing, Yuchen Ye, Penghao Xu, Zhenghu Chen*, Jinzhuo Zhao*, Rui Li*</span>
+  <span><b>Zihan Ran#</b>, <b>Jingcheng Yang#</b>, Liang Liu#, Shaobo Wu, YanPeng An, Wanwan Hou, Tianyuan Cheng, Youyi Zhang, Yiqing Zhang, Yechao Huang, Qianyue Zhang, Jiaping Wan, Xuemei Li, Baoling Xing, Yuchen Ye, Penghao Xu, Zhenghu Chen*, Jinzhuo Zhao*, Rui Li*</span>
   <span><i>Environmental Research</i></span>
   <span><a href="https://doi.org/10.1016/j.envres.2024.119415" target="_blank">DOI: 10.1016/j.envres.2024.119415</a></span>
   <span><a href="https://pubmed.ncbi.nlm.nih.gov/38906446/" target="_blank">PMID: 38906446</a></span>
@@ -34,7 +34,7 @@ hide:
 
 <div style="display: flex; flex-direction: column; flex-wrap: wrap; justify-content: left; align-items: left;">
   <span><b>rNMPID: a database for riboNucleoside MonoPhosphates in DNA</b></span>
-  <span>Jingcheng Yang#, Mo Sun#, Zihan Ran, Taehwan Yang, Deepali L Kundnani, Francesca Storici*, Penghao Xu*.</span>
+  <span><b>Jingcheng Yang#</b>, Mo Sun#, <b>Zihan Ran</b>, Taehwan Yang, Deepali L Kundnani, Francesca Storici*, Penghao Xu*.</span>
   <span><i>Bioinformatics Advances</i></span>
   <span><a href="https://doi.org/10.1093/bioadv/vbae063" target="_blank">DOI: 10.1093/bioadv/vbae063</a></span>
   <span><a href="https://pubmed.ncbi.nlm.nih.gov/38736683/" target="_blank">PMID: 38736683</a></span>
@@ -46,7 +46,7 @@ hide:
 
 <div style="display: flex; flex-direction: column; flex-wrap: wrap; justify-content: left; align-items: left;">
   <span><b>Multi-omics data integration using ratio-based quantitative profiling with Quartet reference materials</b></span>
-  <span>Yuanting Zheng#, Yaqing Liu#, Jingcheng Yang#, ..., Leming Shi*.</span>
+  <span>Yuanting Zheng#, Yaqing Liu#, <b>Jingcheng Yang#</b>, ..., Leming Shi*.</span>
   <span><i>Nature Biotechnology</i></span>
   <span><a href="https://doi.org/10.1038/s41587-023-01934-1" target="_blank">DOI: 10.1038/s41587-023-01934-1</a></span>
   <span><a href="https://pubmed.ncbi.nlm.nih.gov/37679543/" target="_blank">PMID: 37679543</a></span>
@@ -56,7 +56,7 @@ hide:
 
 <div style="display: flex; flex-direction: column; flex-wrap: wrap; justify-content: left; align-items: left;">
   <span><b>Quartet RNA reference materials improve the quality of transcriptomic data through ratio-based profiling</b></span>
-  <span>Ying Yu, Wanwan Hou, Yaqing Liu, Haiyan Wang, Lianhua Dong, Yuanbang Mai, Qingwang Chen, Zhihui Li, Shanyue Sun, Jingcheng Yang, Zehui Cao, Peipei Zhang, Yi Zi, Ruimei Liu, Jian Gao, Naixin Zhang, Jingjing Li, Luyao Ren, He Jiang, Jun Shang, Sibo Zhu, Xiaolin Wang, Tao Qing, Ding Bao, …Yuanting Zheng</span>
+  <span>Ying Yu, Wanwan Hou, Yaqing Liu, Haiyan Wang, Lianhua Dong, Yuanbang Mai, Qingwang Chen, Zhihui Li, Shanyue Sun, <b>Jingcheng Yang</b>, Zehui Cao, Peipei Zhang, Yi Zi, Ruimei Liu, Jian Gao, Naixin Zhang, Jingjing Li, Luyao Ren, He Jiang, Jun Shang, Sibo Zhu, Xiaolin Wang, Tao Qing, Ding Bao, …Yuanting Zheng</span>
   <span><i>Nature Biotechnology</i></span>
   <span><a href="https://doi.org/10.1038/s41587-023-01867-9" target="_blank">DOI: 10.1038/s41587-023-01867-9</a></span>
   <span><a href="https://pubmed.ncbi.nlm.nih.gov/37679545/" target="_blank">PMID: 37679545</a></span>
@@ -66,7 +66,7 @@ hide:
 
 <div style="display: flex; flex-direction: column; flex-wrap: wrap; justify-content: left; align-items: left;">
   <span><b>Quartet DNA reference materials and datasets for comprehensively evaluating germline variants calling performance</b></span>
-  <span>Luyao Ren#, Xiaoke Duan#, Lianhua Dong#, Rui Zhang#, Jingcheng Yang#, ..., Leming Shi, Huixiao Hong, Jing Wang*, Shaohua Fan*, Xiang Fang*, Yuanting Zheng*.</span>
+  <span>Luyao Ren#, Xiaoke Duan#, Lianhua Dong#, Rui Zhang#, <b>Jingcheng Yang#</b>, ..., Leming Shi, Huixiao Hong, Jing Wang*, Shaohua Fan*, Xiang Fang*, Yuanting Zheng*.</span>
   <span><i>Genome Biology</i></span>
   <span><a href="https://doi.org/10.1186/s13059-023-03109-2" target="_blank">DOI: 10.1186/s13059-023-03109-2</a></span>
   <span><a href="https://pubmed.ncbi.nlm.nih.gov/38012772/" target="_blank">PMID: 38012772</a></span>
@@ -76,7 +76,7 @@ hide:
 
 <div style="display: flex; flex-direction: column; flex-wrap: wrap; justify-content: left; align-items: left;">
   <span><b>The Quartet Data Portal: integration of community-wide resources for multiomics quality control</b></span>
-  <span>Jingcheng Yang#, Yaqing Liu#, Jun Shang#, ..., Yuanting Zheng*, Leming Shi*.</span>
+  <span><b>Jingcheng Yang#</b>, Yaqing Liu#, Jun Shang#, ..., Yuanting Zheng*, Leming Shi*.</span>
   <span><i>Genome Biology</i></span>
   <span><a href="https://doi.org/10.1186/s13059-023-03091-9" target="_blank">DOI: 10.1186/s13059-023-03091-9</a></span>
   <span><a href="https://pubmed.ncbi.nlm.nih.gov/37884999/" target="_blank">PMID: 37884999</a></span>
@@ -86,7 +86,7 @@ hide:
 
 <div style="display: flex; flex-direction: column; flex-wrap: wrap; justify-content: left; align-items: left;">
   <span><b>Singe-cell morphological and topological atlas reveals ecosystem diversity of human breast cancer</b></span>
-  <span>Shao Zhao#, Depin Chen#, Tong Fu#, Jingcheng Yang#, ..., Wentao Yang*, Yizhou Jiang*, Jun Xu*, Zhiming Shao*.</span>
+  <span>Shao Zhao#, Depin Chen#, Tong Fu#, <b>Jingcheng Yang#</b>, ..., Wentao Yang*, Yizhou Jiang*, Jun Xu*, Zhiming Shao*.</span>
   <span><i>Nature Communications</i></span>
   <span><a href="https://doi.org/10.1038/s41467-023-42504-y" target="_blank">DOI: 10.1038/s41467-023-42504-y</a></span>
   <span><a href="https://pubmed.ncbi.nlm.nih.gov/37880211/" target="_blank">PMID: 37880211</a></span>
@@ -96,7 +96,7 @@ hide:
 
 <div style="display: flex; flex-direction: column; flex-wrap: wrap; justify-content: left; align-items: left;">
   <span><b>Differences of molecular events driving pathological and radiological progression of lung adenocarcinoma</b></span>
-  <span>Jun Shang#, He Jiang#, Yue Zhao#, ..., Jingcheng Yang*, Haiquan Chen*, Yuanting Zheng*.</span>
+  <span>Jun Shang#, He Jiang#, Yue Zhao#, ..., <b>Jingcheng Yang*</b>, Haiquan Chen*, Yuanting Zheng*.</span>
   <span><i>EBioMedicine</i></span>
   <span>
   <a href="https://doi.org/10.1016/j.ebiom.2023.104728" target="_blank">DOI: 10.1016/j.ebiom.2023.104728</a>
@@ -120,7 +120,7 @@ hide:
 
 <div style="display: flex; flex-direction: column; flex-wrap: wrap; justify-content: left; align-items: left;">
   <span><b>GlioMarker: An integrated database for knowledge exploration of diagnostic biomarkers in gliomas</b></span>
-  <span>Zihan Ran#, Jingcheng Yang#, Yaqing Liu#, ..., Tao Yang*.</span>
+  <span><b>Zihan Ran#</b>, <b>Jingcheng Yang#</b>, Yaqing Liu#, ..., Tao Yang*.</span>
   <span><i>Frontiers in Oncology</i></span>
   <span><a href="https://doi.org/10.3389/fonc.2022.792055" target="_blank">DOI: 10.3389/fonc.2022.792055</a></span>
   <span><a href="https://pubmed.ncbi.nlm.nih.gov/36081550/" target="_blank">PMID: 36081550</a></span>
@@ -130,7 +130,7 @@ hide:
 
 <div style="display: flex; flex-direction: column; flex-wrap: wrap; justify-content: left; align-items: left;">
   <span><b>BioVisReport: a lightweight website-builder for reproducible and interactive visualization of biomedical data of peer-reviewed publications</b></span>
-  <span>Yang J, Liu Y, Shang J, Huang Y, Yu Y, Li Z, Shi L, Ran Z*.</span>
+  <span><b>Jingcheng Yang</b>, Yaqing Liu, Jun Shang, Yechao Huang, Ying Yu, ..., Leming Shi, <b>Zihan Ran*</b>.</span>
   <span><i>Computational and Structural Biotechnology Journal</i></span>
   <span><a href="https://doi.org/10.1016/j.csbj.2022.06.009" target="_blank">DOI: 10.1016/j.csbj.2022.06.009</a></span>
   <span><a href="https://pubmed.ncbi.nlm.nih.gov/35782729/" target="_blank">PMID: 35782729</a></span>
@@ -140,7 +140,7 @@ hide:
 
 <div style="display: flex; flex-direction: column; flex-wrap: wrap; justify-content: left; align-items: left;">
   <span><b>Comprehensive microRNA-seq transcriptomic profiling across 11 organs, 4 ages, and 2 sexes of Fischer 344 rats</b></span>
-  <span>Yao X, Sun S, Zi Y, Liu Y, Yang J, Ren L, ..., Zheng Y.</span>
+  <span>Xintong Yao, Shanyue Sun, Yi Zi, Yaqing Liu, <b>Jingcheng Yang</b>, Luyao Ren, ..., Yuanting Zheng.</span>
   <span><i>Scientific Data</i></span>
   <span><a href="https://doi.org/10.1038/s41597-022-01285-7" target="_blank">DOI: 10.1038/s41597-022-01285-7</a></span>
   <span><a href="https://pubmed.ncbi.nlm.nih.gov/35551205/" target="_blank">PMID: 35551205</a></span>
@@ -150,7 +150,7 @@ hide:
 
 <div style="display: flex; flex-direction: column; flex-wrap: wrap; justify-content: left; align-items: left;">
   <span><b>A deep learning framework to predict multi-omics molecular features, subtypes and prognosis of triple-negative breast cancer from pathological images</b></span>
-  <span>Zhao S, Yan C-Y, Lv H, Yang J, You C, Li Z-A, Ma D, Xiao Y, Hu J, Yang W*, Jiang Y*, Xu J*, Shao Z*.</span>
+  <span>Shen Zhao#, Chaoyang Yan#, Hong Lv#, <b>Jingcheng Yang#</b>, ..., Wentao Yang*, Yizhou Jiang*, Jun Xu*, Zhiming Shao*.</span>
   <span><i>Fundamental Research</i></span>
   <span><a href="https://doi.org/10.1016/j.fmre.2022.06.008" target="_blank">DOI: 10.1016/j.fmre.2022.06.008</a></span>
 </div>
@@ -159,7 +159,7 @@ hide:
 
 <div style="display: flex; flex-direction: column; flex-wrap: wrap; justify-content: left; align-items: left;">
   <span><b>A comprehensive genomic and transcriptomic dataset of triple-negative breast cancers</b></span>
-  <span>Chen Q, Liu Y, Zhang R, Gao Y, Cao Z, Ma D*, Yang J*, Shao Z*, Yu Y*.</span>
+  <span>Qingwang Chen#, Yaqing Liu#, Yuechen Gao#, ..., Ding Ma*, <b>Jingcheng Yang*</b>, Zhiming Shao*, Ying Yu*.</span>
   <span><i>Scientific Data</i></span>
   <span><a href="https://doi.org/10.1038/s41597-022-01681-z" target="_blank">DOI: 10.1038/s41597-022-01681-z</a></span>
   <span><a href="https://pubmed.ncbi.nlm.nih.gov/36153392/" target="_blank">PMID: 36153392</a></span>
@@ -169,7 +169,7 @@ hide:
 
 <div style="display: flex; flex-direction: column; flex-wrap: wrap; justify-content: left; align-items: left;">
   <span><b>Assessing reproducibility of inherited variants detected with short-read whole genome sequencing</b></span>
-  <span>Pan B, Ren L, Onuchic V, Guan M, Kusko R, Bruinsma S, Trigg L, Scherer A, Ning B, Zhang C, ..., Shang J, ..., Zheng Y, Hong H.</span>
+  <span>Bohu Pan#, Luyao Ren#, Vitor Onuchic#, ..., <b>Jingcheng Yang</b>, ..., Jun Shang, ..., Yuanting Zheng*, Huixiao Hong*.</span>
   <span><i>Genome Biology</i></span>
   <span><a href="https://doi.org/10.1186/s13059-021-02569-8" target="_blank">DOI: 10.1186/s13059-021-02569-8</a></span>
   <span><a href="https://pubmed.ncbi.nlm.nih.gov/34980216/" target="_blank">PMID: 34980216</a></span>
@@ -179,7 +179,7 @@ hide:
 
 <div style="display: flex; flex-direction: column; flex-wrap: wrap; justify-content: left; align-items: left;">
   <span><b>Comprehensive microRNA-seq transcriptomic profiling across 11 organs, 4 ages, and 2 sexes of Fischer 344 rats</b></span>
-  <span>Yao X, Sun S, Zi Y, Liu Y, Yang J, ..., Li Q*, Yu Y*, Zheng Y*.</span>
+  <span>Xintong Yao#, Shanyue Sun#, Yi Zi, Yaqing Liu, <b>Jingcheng Yang</b>, ..., Quanzhen Li*, Ying Yu*, Yuanting Zheng*.</span>
   <span><i>Scientific Data</i></span>
   <span><a href="https://doi.org/10.1038/s41597-022-01285-7" target="_blank">DOI: 10.1038/s41597-022-01285-7</a></span>
   <span><a href="https://pubmed.ncbi.nlm.nih.gov/35551205/" target="_blank">PMID: 35551205</a></span>
@@ -189,7 +189,7 @@ hide:
 
 <div style="display: flex; flex-direction: column; flex-wrap: wrap; justify-content: left; align-items: left;">
   <span><b>Advances in Exosome Biomarkers for Cervical Cancer</b></span>
-  <span>Ran Z, Wu S, Ma Z, Chen X, Liu J, Yang J*.</span>
+  <span><b>Zihan Ran</b>, Shaobo Wu, Zijing Ma, Xiuwen Chen, Jing Liu, <b>Jingcheng Yang*</b>.</span>
   <span><i>Cancer Medicine</i></span>
   <span><a href="https://doi.org/10.1002/cam4.4828" target="_blank">DOI: 10.1002/cam4.4828</a></span>
   <span><a href="https://pubmed.ncbi.nlm.nih.gov/35578572/" target="_blank">PMID: 35578572</a></span>
@@ -207,23 +207,15 @@ hide:
 
 <div style="display: flex; flex-direction: column; flex-wrap: wrap; justify-content: left; align-items: left;">
   <span><b>Functional consequences of a rare missense BARD1 c.403G>A germline mutation identified in a triple-negative breast cancer patient</b></span>
-  <span>Zheng Y, Li B, Pan D, ..., Yang J, ..., Yu Y*, Wu J*, Hu X*, Shi L*.</span>
+  <span>Yuanting Zheng, Binying Li, ..., Jingcheng Yang, ..., Ying Yu*, Jiaxue Wu*, Xichun Hu*, Leming Shi*.</span>
   <span><i>Breast Cancer Research</i></span>
 </div>
 
 <span style="margin-bottom: 10px;" />
 
 <div style="display: flex; flex-direction: column; flex-wrap: wrap; justify-content: left; align-items: left;">
-  <span><b>Poor prognosis of stage I lung adenocarcinoma patients determined by elevated expression over pre/minimally invasive status of COL11A1 and THBS2 in the focal adhesion pathway</b></span>
-  <span>Shang J, Zhao Y, Jiang H, Yang J, Zhang N, Ren L, Chen Q, Yu Y, Shi L, Chen H, Zheng Y.</span>
-  <span><i>medRxiv</i></span>
-</div>
-
-<span style="margin-bottom: 10px;" />
-
-<div style="display: flex; flex-direction: column; flex-wrap: wrap; justify-content: left; align-items: left;">
   <span><b>Subchronic exposure to concentrated ambient PM2. 5 perturbs gut and lung microbiota as well as metabolic profiles in mice</b></span>
-  <span>Ran Z, An Y, Zhou JI, Yang J, Zhang Y, Yang J, ..., Li R.</span>
+  <span>Zihan Ran#, Yanpeng An#, Ji Zhou, Jingmin Yang, Youyi Zhang, Jingcheng Yang, ..., Rui Li*.</span>
   <span><i>Environmental Pollution</i></span>
 </div>
 
@@ -231,7 +223,7 @@ hide:
 
 <div style="display: flex; flex-direction: column; flex-wrap: wrap; justify-content: left; align-items: left;">
   <span><b>ECCDIA: an interactive web tool for the comprehensive analysis of clinical and survival data of esophageal cancer patients</b></span>
-  <span>Yang J, Shang J, Song Q, Yang Z, Chen J, Yu Y, Shi L*.</span>
+  <span>Jingcheng Yang, Jun Shang, Qian Song, ..., Leming Shi*.</span>
   <span><i>BMC Cancer</i></span>
 </div>
 

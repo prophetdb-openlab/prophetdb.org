@@ -47,6 +47,8 @@ Click the invitation link to join [the document collaboration group](https://kdo
   </div>
 </div>
 
+<span style="margin-bottom: 20px;" />
+
 # Core Members
 
 <!-- Add several div tags which contains four elements for each div tag. Four elements are picture, name, position and description. And the description item must be placed on the right, other items are placed on the left. -->
@@ -114,7 +116,7 @@ Click the invitation link to join [the document collaboration group](https://kdo
   </div>
 </div>
 
-<span style="margin-bottom: 10px;" />
+<span style="margin-bottom: 20px;" />
 
 # Interns
 

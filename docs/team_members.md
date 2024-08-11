@@ -18,7 +18,7 @@ Click the invitation link to join [the document collaboration group](https://kdo
       </div>
     </div>
     <div class="right">
-      <span class="custom-tag" style="background-color: #108ee9;">DryLab</span> Harvard Medical School & MGH, Fudan University. He has earned a Ph.D. in Genetics from Fudan University. Prior to this, he was a cardiothoracic surgeon. Now, he focuses on integrating multi-omics data and knowledge graphs and conducts deep-learning heterogeneous network methods for network medicine to discover auto-immune disease mechanisms and potential treatments. <a href="https://github.com/yjcyxky">Github</a> >>> <a href="https://www.researchgate.net/profile/Jingcheng-Yang-4">Research Gate</a>
+      <span class="custom-tag" style="background-color: #108ee9;">DryLab</span> Harvard Medical School & MGH, Fudan University. He has earned a Ph.D. in Genetics from Fudan University. Prior to this, he was a cardiothoracic surgeon. Now, he focuses on integrating multi-omics data and knowledge graphs and conducts deep-learning heterogeneous network methods for network medicine to discover disease mechanisms and potential treatments for rare and complex diseases. <a href="https://github.com/yjcyxky">Github</a> >>> <a href="https://www.researchgate.net/profile/Jingcheng-Yang-4">Research Gate</a>
     </div>
   </div>
   <div class="member-card">

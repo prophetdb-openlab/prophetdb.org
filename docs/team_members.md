@@ -85,6 +85,8 @@ Click the invitation link to join [the document collaboration group](https://kdo
   </div>
 </div>
 
+<span style="margin-bottom: 10px;" />
+
 # Interns
 
 <div style="display: flex; flex-direction: row; flex-wrap: wrap;">

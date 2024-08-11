@@ -110,7 +110,7 @@ hide:
 
 <div style="display: flex; flex-direction: column; flex-wrap: wrap; justify-content: left; align-items: left;">
   <span><b>Prediction of base editor off-targets by deep learning</b></span>
-  <span>Chengdong Zhang#, Yuan Yang#, Tao Qi#, ..., Hui Wang*, Bo Yu*, Yongming Wang*.</span>
+  <span>Chengdong Zhang#, Yuan Yang#, Tao Qi#, ..., Jingcheng Yang, ..., Hui Wang*, Bo Yu*, Yongming Wang*.</span>
   <span><i>Nature Communications</i></span>
   <span><a href="https://doi.org/10.1038/s41467-023-41004-3" target="_blank">DOI: 10.1038/s41467-023-41004-3</a></span>
   <span><a href="https://pubmed.ncbi.nlm.nih.gov/37660097/" target="_blank">PMID: 37660097</a></span>

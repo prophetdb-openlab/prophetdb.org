@@ -87,7 +87,7 @@ Click the invitation link to join [the document collaboration group](https://kdo
 
 # Interns
 
-<div>
+<div style="display: flex; flex-direction: row; flex-wrap: wrap;">
   <div class="member-card">
     <div class="left">
       <img src="/assets/images/unknown.jpg"/>

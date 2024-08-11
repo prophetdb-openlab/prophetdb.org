@@ -4,11 +4,9 @@ hide:
   - toc
 ---
 
-# Team Members
+# Founder Members
 
 Click the invitation link to join [the document collaboration group](https://kdocs.cn/join/g924rmw?f=101) and [the project management group](https://github.com/orgs/open-prophetdb/projects/1).
-
-<!-- Add several div tags which contains four elements for each div tag. Four elements are picture, name, position and description. And the description item must be placed on the right, other items are placed on the left. -->
 
 <div style="display: flex; flex-direction: row; flex-wrap: wrap;">
   <div class="member-card">
@@ -25,18 +23,6 @@ Click the invitation link to join [the document collaboration group](https://kdo
   </div>
   <div class="member-card">
     <div class="left">
-      <img src="/assets/images/penghaoxu.jpg"/>
-      <div>
-        <div class="name">Penghao xu</div>
-        <div class="position">Post-doc Fellow</div>
-      </div>
-    </div>
-    <div class="right">
-      <span class="custom-tag" style="background-color: #108ee9;">DryLab</span> Georgia Tech. He has earned a Ph.D. in Bioinformatics from Georgia Tech in 2022. Prior to this, he received a Master’s degree in Computational Sciences and Engineering from Georgia Tech in 2019, and a Bachelor’s degree in Biological Sciences from Fudan University in 2017. His research area include Bioinformatics, Genomics, Data analysis, and Machine Learning. <a href="https://github.com/xph9876">Github</a> >>> <a href="https://www.linkedin.com/in/penghao-xu-24111914b/">Linkedin</a>
-    </div>
-  </div>
-  <div class="member-card">
-    <div class="left">
       <img src="/assets/images/zihanran.png"/>
       <div>
         <div class="name">Zihan Ran</div>
@@ -45,6 +31,25 @@ Click the invitation link to join [the document collaboration group](https://kdo
     </div>
     <div class="right">
       <span class="custom-tag" style="background-color: #2db7f5;">WetLab</span> She has earned a Ph.D. from Fudan University. She focuses on the health effects and toxicological mechanisms of pollutant exposure, knowledge graph and multi-omics data integration and analysis.
+    </div>
+  </div>
+</div>
+
+# Core Members
+
+<!-- Add several div tags which contains four elements for each div tag. Four elements are picture, name, position and description. And the description item must be placed on the right, other items are placed on the left. -->
+
+<div style="display: flex; flex-direction: row; flex-wrap: wrap;">
+  <div class="member-card">
+    <div class="left">
+      <img src="/assets/images/penghaoxu.jpg"/>
+      <div>
+        <div class="name">Penghao xu</div>
+        <div class="position">Post-doc Fellow</div>
+      </div>
+    </div>
+    <div class="right">
+      <span class="custom-tag" style="background-color: #108ee9;">DryLab</span> Georgia Tech. He has earned a Ph.D. in Bioinformatics from Georgia Tech in 2022. Prior to this, he received a Master’s degree in Computational Sciences and Engineering from Georgia Tech in 2019, and a Bachelor’s degree in Biological Sciences from Fudan University in 2017. His research area include Bioinformatics, Genomics, Data analysis, and Machine Learning. <a href="https://github.com/xph9876">Github</a> >>> <a href="https://www.linkedin.com/in/penghao-xu-24111914b/">Linkedin</a>
     </div>
   </div>
   <div class="member-card">

@@ -33,6 +33,18 @@ Click the invitation link to join [the document collaboration group](https://kdo
       <span class="custom-tag" style="background-color: #2db7f5;">WetLab</span> She has earned a Ph.D. from Fudan University. She focuses on the health effects and toxicological mechanisms of pollutant exposure, knowledge graph and multi-omics data integration and analysis.
     </div>
   </div>
+  <div class="member-card">
+    <div class="left">
+      <img src="/assets/images/unknown.jpg"/>
+      <div>
+        <div class="name">Jun Shang</div>
+        <div class="position">Post-doc Fellow</div>
+      </div>
+    </div>
+    <div class="right">
+      <span class="custom-tag" style="background-color: #2db7f5;">DryLab</span> He has earned a Ph.D. from Fudan University. He focuses on the multi-omics data integration and analysis for cancers.
+    </div>
+  </div>
 </div>
 
 # Core Members
@@ -62,6 +74,18 @@ Click the invitation link to join [the document collaboration group](https://kdo
     </div>
     <div class="right">
       <span class="custom-tag" style="background-color: #2db7f5;">WetLab</span> He is currently pursuing a Ph.D. at Fudan University. His research focuses on the development of CRISPR libraries and gene-editing cell libraries, as well as target and drug screening based on these technologies.
+    </div>
+  </div>
+  <div class="member-card">
+    <div class="left">
+      <img src="/assets/images/unknown.jpg"/>
+      <div>
+        <div class="name">Zhixing Zhu</div>
+        <div class="position">Project Manager</div>
+      </div>
+    </div>
+    <div class="right">
+      <span class="custom-tag" style="background-color: #2db7f5;">DryLab</span> Her primary responsibilities include managing team projects, tracking progress, assisting with funding applications, and contributing to the construction of the Knowledge Graph. She also helps with staff training and participates in the writing of certain papers.
     </div>
   </div>
   <div class="member-card">

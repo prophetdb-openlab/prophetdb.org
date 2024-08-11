@@ -99,7 +99,20 @@ Click the invitation link to join [the document collaboration group](https://kdo
       </div>
     </div>
     <div class="right">
-      <span class="custom-tag" style="background-color: #2db7f5;">2024 Summer Intern</span> During her internship, she primarily focused on reviewing literature, identifying and organizing evidence to support and explain new findings predicted by AI models, and composing comprehensive reviews.
+      <span class="custom-tag" style="background-color: #2db7f5;">2024 Summer Intern</span> Shanghai University of Medicine & Health Sciences. During her internship, she primarily focused on reviewing literature, identifying and organizing evidence to support and explain new findings predicted by AI models, and composing comprehensive reviews.
+    </div>
+  </div>
+
+  <div class="member-card">
+    <div class="left">
+      <img src="/assets/images/unknown.jpg"/>
+      <div>
+        <div class="name">Tianyuan Cheng</div>
+        <div class="position">Master</div>
+      </div>
+    </div>
+    <div class="right">
+      <span class="custom-tag" style="background-color: #2db7f5;">2024 Summer Intern</span> Johns Hopkins University. During her internship, she primarily focused on reviewing literature, identifying and organizing evidence to support and explain new findings predicted by AI models, and composing comprehensive reviews.
     </div>
   </div>
 
@@ -112,7 +125,7 @@ Click the invitation link to join [the document collaboration group](https://kdo
       </div>
     </div>
     <div class="right">
-      <span class="custom-tag" style="background-color: #2db7f5;">2023-2024</span> His work primarily involves writing Python code to collect and validate various types of data, as well as testing software systems and large language models.
+      <span class="custom-tag" style="background-color: #2db7f5;">2023-2024</span> Shanghai University of Medicine & Health Sciences. His work primarily involves writing Python code to collect and validate various types of data, as well as testing software systems and large language models.
     </div>
   </div>
 
@@ -125,7 +138,7 @@ Click the invitation link to join [the document collaboration group](https://kdo
       </div>
     </div>
     <div class="right">
-      <span class="custom-tag" style="background-color: #2db7f5;">2023-2024</span> His work primarily involves using the customized literature annotation system in OpenProphetDB to annotate and review literature on ME/CFS and Long COVID.
+      <span class="custom-tag" style="background-color: #2db7f5;">2023-2024</span> Shanghai University of Medicine & Health Sciences. His work primarily involves using the customized literature annotation system in OpenProphetDB to annotate and review literature on ME/CFS and Long COVID.
     </div>
   </div>
 
@@ -151,7 +164,7 @@ Click the invitation link to join [the document collaboration group](https://kdo
       </div>
     </div>
     <div class="right">
-      <span class="custom-tag" style="background-color: #2db7f5;">2023-2024</span> His work primarily involves writing Python code to collect and validate various types of data, as well as testing software systems and large language models.
+      <span class="custom-tag" style="background-color: #2db7f5;">2023-2024</span> Shanghai University of Medicine & Health Sciences. His work primarily involves writing Python code to collect and validate various types of data, as well as testing software systems and large language models.
     </div>
   </div>
 
@@ -164,7 +177,7 @@ Click the invitation link to join [the document collaboration group](https://kdo
       </div>
     </div>
     <div class="right">
-      <span class="custom-tag" style="background-color: #2db7f5;">2022-2023</span> Her primary work involves using the customized literature annotation system in OpenProphetDB to annotate and review literature on diseases of interest, as well as writing related knowledge base papers.
+      <span class="custom-tag" style="background-color: #2db7f5;">2022-2023</span> Shanghai University of Medicine & Health Sciences. Her primary work involves using the customized literature annotation system in OpenProphetDB to annotate and review literature on diseases of interest, as well as writing related knowledge base papers.
     </div>
   </div>
 
@@ -177,7 +190,7 @@ Click the invitation link to join [the document collaboration group](https://kdo
       </div>
     </div>
     <div class="right">
-      <span class="custom-tag" style="background-color: #2db7f5;">2022-2023</span> Her primary work involves using the customized literature annotation system in OpenProphetDB to annotate and review literature on diseases of interest, as well as writing related knowledge base papers.
+      <span class="custom-tag" style="background-color: #2db7f5;">2022-2023</span> Shanghai University of Medicine & Health Sciences. Her primary work involves using the customized literature annotation system in OpenProphetDB to annotate and review literature on diseases of interest, as well as writing related knowledge base papers.
     </div>
   </div>
 </div>

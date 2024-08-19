@@ -143,6 +143,7 @@ iframe[style^="background"] {
   font-size: 16px;
   margin-left: 20px;
   text-align: left;
+  overflow: scroll;
 }
 
 .member-card .left .name {
